@@ -87,6 +87,7 @@ No software installation required. Just open the web app, paste your meeting lin
 6. Save or copy your transcript when you’re done.  
 
 No bots joining your call. No complex setup. Just understanding — in real time.
+<img width="3364" height="964" alt="Context capture userflow" src="https://github.com/user-attachments/assets/5ee34be0-9534-47f7-bc60-99446f957b36" />
 
 ---
 
@@ -106,7 +107,10 @@ It’s a movement toward empathy in technology, where accessibility meets clarit
 - **Database:** MongoDB  
 - **Speech-to-Text Engine:** Whisper API / AssemblyAI  
 - **AI Explanation Engine:** OpenAI API  
+---
 
+##  Prototype
+[Figma link](https://www.figma.com/proto/YX96DxMEkKJu6Pg7B1Z4nV/Proof-of-Concept-for-Context-capture?node-id=22-7&p=f&t=jNKS46aggwYSAzEr-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 
 ---
